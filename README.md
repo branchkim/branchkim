@@ -50,5 +50,10 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=branchkim&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=branchkim&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="top langs" />
+</p>
+
+### 🌈 语言分布（含私有仓库编码）
+
+<p align="center">
+  <img src="./metrics-languages.svg" alt="languages" width="480" />
 </p>
